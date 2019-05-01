@@ -1,4 +1,14 @@
 .top_logo{
+    text-align: center;  
+}
+.centrar_cont
+{
     text-align: center;
-    
+}
+.img_xxs{
+    width: 25px;
+    height: 25px;
+}
+.img_sm_der{
+    padding-top: 60px;
 }
