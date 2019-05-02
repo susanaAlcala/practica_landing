@@ -10,8 +10,11 @@
     height: 25px;
 }
 .img_sm_der{
-    padding-top: 60px;
+    padding-top: 40px;
 }
 .cards{
     padding: 40px;
+}
+.centrar_mapa{
+    padding-bottom: 40px;
 }
